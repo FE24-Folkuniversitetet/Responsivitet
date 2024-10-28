@@ -1,7 +1,7 @@
 # Responsivitet Bootcamp
-**En hög med övningar för att träna på responsivitet.**
+**Övningar för att träna på responsivitet.**
 
-Använd dig av CSS Grid, flexbox för nedan övningar. Definiera lite min-höjder för att få lite höjd då det inte finns något innehåll.
+Använd dig av CSS Grid, flexbox och media queries för att skapa en responsiv layout. Definiera lite min-höjder för att få lite höjd när det inte finns något innehåll. 
 
 ## Övning 1
 ![respcamp1](https://user-images.githubusercontent.com/54267140/142991652-6e0dbff4-773b-4386-aa69-2901df974f7b.jpg)
